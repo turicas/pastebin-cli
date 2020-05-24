@@ -1,0 +1,6 @@
+autoflake
+black
+isort
+setuptools
+twine
+wheel
